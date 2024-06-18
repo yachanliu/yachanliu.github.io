@@ -1,6 +1,6 @@
 main:
 
-  - title: ZeoNet: 3D convolutional neural networks for predicting adsorption in nanoporous zeolites
+  - title: "ZeoNet: 3D convolutional neural networks for predicting adsorption in nanoporous zeolites"
     authors: Yachan Liu, Gustavo Perez, Zezhou Cheng, Aaron Sun, Samuel C Hoover, Wei Fan, Subhransu Maji, Peng Bai
     conference_short: J. Mater. Chem. A
     conference: Journal of Materials Chemistry A <strong>(J. Mater. Chem. A)</strong>, 2023.
