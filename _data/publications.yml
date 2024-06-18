@@ -1,22 +1,22 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: ZeoNet: 3D convolutional neural networks for predicting adsorption in nanoporous zeolites
+    authors: Yachan Liu, Gustavo Perez, Zezhou Cheng, Aaron Sun, Samuel C Hoover, Wei Fan, Subhransu Maji, Peng Bai
+    conference_short: J. Mater. Chem. A
+    conference: Journal of Materials Chemistry A <strong>(J. Mater. Chem. A)</strong>, 2023.
+    pdf: https://doi.org/10.1039/D3TA01911J
+    code: https://gitlab.com/baigroup/zeonet
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/zeonet.pdf
+    #notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Degradation of poly(ethylene terephthalate) catalyzed by metal-free choline-based ionic liquids
+    authors: <strong>Yachan Liu</strong>,  Xiaoqian Yao, Haoyu Yao, Qing Zhou, Jiayu Xin, Xingmei Lu and  Suojiang Zhang
+    conference_short: Green Chem.
+    conference: Green Chemistry <strong>(CVPR)</strong>, 2020.
+    pdf: https://doi.org/10.1039/D0GC00327A
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    image: ./assets/img/pet.tif
