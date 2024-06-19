@@ -1,0 +1,31 @@
+main:
+
+  - title: Developing 3D Convolutional Neural Networks (ZeoNet) for Predicting Adsorption in Nanoporous Zeolites
+    authors: <strong>Yachan Liu</strong>, Gustavo Perez, Zezhou Cheng, Aaron Sun, Samuel C Hoover, Wei Fan, Subhransu Maji, Peng Bai
+    conference_short: AIChE
+    conference: American Institute of Chemical Engineers Annual Meeting (<strong>AIChE</strong>), 2023, Orlando, FL, US.
+    abstract: https://aiche.confex.com/aiche/2023/meetingapp.cgi/Paper/670500
+    #slides: https://gitlab.com/baigroup/zeonet
+    #poster: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/aiche23.png
+    notes: Oral Presentation
+
+  - title: Degradation of PET Catalyzed by Degradable Ionic Liquids
+    authors: <strong>Yachan Liu</strong>,  Xiaoqian Yao, Haoyu Yao, Qing Zhou, Jiayu Xin, Xingmei Lu and  Suojiang Zhang
+    conference_short: COIL-8
+    conference: The 8th International Congress on Ionic Liquids (<strong>COIL-8</strong>), 2019, Beijing, China.
+    #abstract: https://aiche.confex.com/aiche/2023/meetingapp.cgi/Paper/670500
+    #slides: https://gitlab.com/baigroup/zeonet
+    #poster: https://bib.yliu.me/MICCAI23.txt
+    notes: Poster Presentation
+    image: ./assets/img/coil.png
+
+  - title: Degradable Ionic Liquids as Efficient Catalysts for PET Glycolysis
+    authors: <strong>Yachan Liu</strong>, Xingmei Lu, Qing Zhou, and Suojiang Zhang
+    conference_short: TAKT
+    conference: The 7th National Symposium on Thermo Analysis Kinetics and Thermodynamics of Chinese Chemical Society (<strong>TAKT</strong>), 2019, Hefei, China.
+    abstract: ./assets/files/takt.pdf
+    #slides: https://gitlab.com/baigroup/zeonet
+    #poster: https://bib.yliu.me/MICCAI23.txt
+    notes: Poster Presentation
+    image: ./assets/img/takt.png
