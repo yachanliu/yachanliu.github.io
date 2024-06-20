@@ -21,11 +21,7 @@ Outside of the lab, my hobbies include cooking, and hanging out with my cat [Yue
 
 {% include_relative _includes/talks.md %}
 
-## Working Experience
----
-
-- **[Dec 2016 - May 2017]** Research & Development Intern at Dow Chemical (China) Investment Co., Ltd. Shanghai, China
-
+{% include_relative _includes/experience.md %}
 
 ## Media Coverage
 ---
