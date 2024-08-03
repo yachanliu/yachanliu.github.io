@@ -1,5 +1,15 @@
 main:
 
+  - title: "Representation Learning for All-Silica Zeolites: Model Representations, Transfer Learning, and Multi-Task Learning"
+    authors: <strong>Yachan Liu</strong>, Ping Yang, Gustavo Perez, Aaron Sun, Wei Fan, Subhransu Maji, Peng Bai
+    conference_short: GRC
+    conference: Gordon Research Conference on Computational Materials Science and Engineering (<strong>GRC</strong>), 2024, Newry, ME, US.
+    #abstract: https://aiche.confex.com/aiche/2023/meetingapp.cgi/Paper/670500
+    #slides: https://gitlab.com/baigroup/zeonet
+    #poster: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/grc24.png
+    notes: Poster Presentation
+
   - title: Developing 3D Convolutional Neural Networks (ZeoNet) for Predicting Adsorption in Nanoporous Zeolites
     authors: <strong>Yachan Liu</strong>, Gustavo Perez, Zezhou Cheng, Aaron Sun, Samuel C Hoover, Wei Fan, Subhransu Maji, Peng Bai
     conference_short: AIChE
