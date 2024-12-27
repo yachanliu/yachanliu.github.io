@@ -2,6 +2,16 @@ main:
 
   - title: "Representation Learning for All-Silica Zeolites: Model Representations, Transfer Learning, and Multi-Task Learning"
     authors: <strong>Yachan Liu</strong>, Ping Yang, Gustavo Perez, Aaron Sun, Wei Fan, Subhransu Maji, Peng Bai
+    conference_short: AIChE
+    conference: American Institute of Chemical Engineers Annual Meeting (<strong>AIChE</strong>), 2024, San Diego, CA, US.
+    abstract: https://aiche.confex.com/aiche/2024/meetingapp.cgi/Paper/693601
+    #slides: https://gitlab.com/baigroup/zeonet
+    #poster: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/aiche24.png
+    notes: Oral Presentation
+
+  - title: "Representation Learning for All-Silica Zeolites: Model Representations, Transfer Learning, and Multi-Task Learning"
+    authors: <strong>Yachan Liu</strong>, Ping Yang, Gustavo Perez, Aaron Sun, Wei Fan, Subhransu Maji, Peng Bai
     conference_short: GRC
     conference: Gordon Research Conference on Computational Materials Science and Engineering (<strong>GRC</strong>), 2024, Newry, ME, US.
     #abstract: https://aiche.confex.com/aiche/2023/meetingapp.cgi/Paper/670500
